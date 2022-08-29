@@ -1,0 +1,4 @@
+paddlepaddle-gpu==2.3.0
+opencv-python==4.2.0.32
+tqdm
+tabulate
